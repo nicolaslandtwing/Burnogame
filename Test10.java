@@ -1,6 +1,6 @@
-package ch.teko.prg;
+public class Test10 {
 
-
+    public class Main {
 import javax.swing.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
@@ -105,5 +105,5 @@ import java.util.concurrent.ThreadLocalRandom;
             }
         }
 
-
-
+        }
+    }
